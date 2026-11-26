@@ -10,3 +10,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 2 | 2026-11-22 | Kamal Khatwani (via Claude) | Work (99%) on #3: List 10–15 Pune houses for TOPC House with rent and running costs | 2,673 | provisional | https://github.com/topc-social/topc-tasks/pull/344 |
 | 3 | 2026-11-26 | Kamal Khatwani | Idea (1%) for #6: Vision page for TOPC House at topc.social/house, with a join-the-list form | 39 | provisional | https://github.com/kamal0808/topc/pull/173 |
 | 4 | 2026-11-26 | Kamal Khatwani | Work (99%) on #6: Vision page for TOPC House at topc.social/house, with a join-the-list form | 3,861 | provisional | https://github.com/kamal0808/topc/pull/173 |
+| 5 | 2026-11-26 | Kamal Khatwani | Idea (1%) for #7: Places page: real votes, comments, distance from you, full listing details | 60 | provisional | https://github.com/kamal0808/topc/pull/173 |
+| 6 | 2026-11-26 | Kamal Khatwani | Work (99%) on #7: Places page: real votes, comments, distance from you, full listing details | 5,940 | provisional | https://github.com/kamal0808/topc/pull/173 |
