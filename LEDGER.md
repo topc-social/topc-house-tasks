@@ -12,3 +12,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 4 | 2026-11-26 | Kamal Khatwani | Work (99%) on #6: Vision page for TOPC House at topc.social/house, with a join-the-list form | 3,861 | provisional | https://github.com/kamal0808/topc/pull/173 |
 | 5 | 2026-11-26 | Kamal Khatwani | Idea (1%) for #7: Places page: real votes, comments, distance from you, full listing details | 60 | provisional | https://github.com/kamal0808/topc/pull/173 |
 | 6 | 2026-11-26 | Kamal Khatwani | Work (99%) on #7: Places page: real votes, comments, distance from you, full listing details | 5,940 | provisional | https://github.com/kamal0808/topc/pull/173 |
+| 7 | 2026-11-27 | Kamal Khatwani | Idea (1%) for #8: TOPC House page: hacker-house framing, Indian photos, a small link to the places page | 32 | provisional | https://github.com/kamal0808/topc/pull/176 |
+| 8 | 2026-11-27 | Kamal Khatwani | Work (99%) on #8: TOPC House page: hacker-house framing, Indian photos, a small link to the places page | 3,168 | provisional | https://github.com/kamal0808/topc/pull/176 |
